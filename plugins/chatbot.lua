@@ -48,17 +48,17 @@ end
 if msg.text == "bye" then
 	return "Bye Bye"
 end
-if msg.text == "abbas" then
+if msg.text == "dany" then
 	return "با صاحبم چی کارداری؟؟"
 end
-if msg.text == "abas" then
+if msg.text == "danyal" then
 	return "با صاحبم چی کارداری؟؟"
 end
 if msg.text == "slm" then
 	return "سلام"
 end
 if msg.text == "sudo" then
-	return "@unkownhacker"
+	return "@Xx_admin1_zaq_xX"
 end
 if msg.text == "سلام" then
 	return "سلام"
@@ -66,10 +66,10 @@ end
 if msg.text == "khobi?" then
 	return "مگه دکتری"
 end
-if msg.text == "extreme" then
+if msg.text == "evil" then
 	return "bale"
 end
-if msg.text == "عباس" then
+if msg.text == "دانیال" then
 	return "با صاحبم چی کار داری؟؟"
 end
 if msg.text == "i love you" then
@@ -116,7 +116,7 @@ return {
 		"^[Bb]adboy$",
 		"^[Dd]adash$",
 		"^[Ii] love you$",
-		"^[Ee]xtreme$",
+		"^[Ee]vil$",
 		"^[Kk]hobi?$",
 		"^[Ss]udo$",
 		"^[Aa]bbas$",
