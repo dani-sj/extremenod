@@ -249,14 +249,14 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {179983320},--Sudo users
+	    sudo_users = {103365027,179983320,24878907},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @ZaqChannel
+sodu : @Xx_admin1_zaq_xX 
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -321,7 +321,7 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+ch: @ZaqChannel
 
 ]],
     help_text = [[
@@ -432,10 +432,10 @@ E X T R E M E Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Developer: @unkownhacker
+Developer: @Xx_admin1_zaq_xX 
 توسعه دهنده
 
-channel: @extremerTEAM
+channel: @ZaqChannel
 کانال ما
 
 E X T R E M E🌏 V2
