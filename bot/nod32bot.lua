@@ -325,7 +325,7 @@ ch: @ZaqChannel
 
 ]],
     help_text = [[
-E X T R E M E Commands list :
+EVIL BOT Commands list :
 !kk [username|id]
 (کیک کردن شخص (حتی با ریپلی)
 !bk [ username|id]
